@@ -4,7 +4,7 @@
 
 ## Overview
 
-This is a simple weather app UI that fetches real-time weather data from a third-party API. The app provides users with current weather conditions based on the user's location or a specified location.
+This is a simple weather app UI that fetches real-time weather data from a third-party API. The app provides users with current weather conditions based on the specified location.
 
 ## Features
 
